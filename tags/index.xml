@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ely Kahn</title>
+    <link>https://elykahn.github.io/elyio-log/tags/</link>
+    <description>Recent content in Tags on Ely Kahn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>ely.kahn@gmail.com (Ely Kahn)</managingEditor>
+    <webMaster>ely.kahn@gmail.com (Ely Kahn)</webMaster>
+    <copyright>© Ely Kahn</copyright><atom:link href="https://elykahn.github.io/elyio-log/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

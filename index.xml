@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ely Kahn</title>
+    <link>https://elykahn.github.io/elyio-log/</link>
+    <description>Recent content on Ely Kahn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>ely.kahn@gmail.com (Ely Kahn)</managingEditor>
+    <webMaster>ely.kahn@gmail.com (Ely Kahn)</webMaster>
+    <copyright>© Ely Kahn</copyright>
+    <lastBuildDate>Fri, 02 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://elykahn.github.io/elyio-log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>https://elykahn.github.io/elyio-log/blog/hello/</link>
+      <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
+      <author>ely.kahn@gmail.com (Ely Kahn)</author>
+      <guid>https://elykahn.github.io/elyio-log/blog/hello/</guid>
+      <description>My first post.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://elykahn.github.io/elyio-log/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ely.kahn@gmail.com (Ely Kahn)</author>
+      <guid>https://elykahn.github.io/elyio-log/about/</guid>
+      <description>I&amp;rsquo;m the most interesting man in the universe.
+I once made a mistake, just to see how it feels.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://elykahn.github.io/elyio-log/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ely.kahn@gmail.com (Ely Kahn)</author>
+      <guid>https://elykahn.github.io/elyio-log/contact/</guid>
+      <description>john.doe@example.com
++1 (555) 867-5309
+123 Sesame St
+New York, NY 10001</description>
+    </item>
+    
+  </channel>
+</rss>

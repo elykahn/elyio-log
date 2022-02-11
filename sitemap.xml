@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://elykahn.github.io/elyio-log/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elykahn.github.io/elyio-log/blog/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elykahn.github.io/elyio-log/categories/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elykahn.github.io/elyio-log/blog/hello/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elykahn.github.io/elyio-log/categories/web-development/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elykahn.github.io/elyio-log/about/</loc>
+  </url><url>
+    <loc>https://elykahn.github.io/elyio-log/contact/</loc>
+  </url><url>
+    <loc>https://elykahn.github.io/elyio-log/tags/</loc>
+  </url>
+</urlset>

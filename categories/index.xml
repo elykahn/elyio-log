@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ely Kahn</title>
+    <link>https://elykahn.github.io/elyio-log/categories/</link>
+    <description>Recent content in Categories on Ely Kahn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>ely.kahn@gmail.com (Ely Kahn)</managingEditor>
+    <webMaster>ely.kahn@gmail.com (Ely Kahn)</webMaster>
+    <copyright>© Ely Kahn</copyright>
+    <lastBuildDate>Fri, 02 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://elykahn.github.io/elyio-log/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development</title>
+      <link>https://elykahn.github.io/elyio-log/categories/web-development/</link>
+      <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
+      <author>ely.kahn@gmail.com (Ely Kahn)</author>
+      <guid>https://elykahn.github.io/elyio-log/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
